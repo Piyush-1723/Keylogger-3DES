@@ -97,7 +97,3 @@ python Cryptography/Decryp.py
 > Unauthorized use of keyloggers is **illegal**.  
 
 ---
-
-## 👨‍💻 Authors  
-- Your Name Here  
-- Guided by: Prof. Swati Gajarlewar  
